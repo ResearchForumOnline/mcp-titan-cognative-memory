@@ -34,6 +34,30 @@ These features align with the paper's goals of improving code understanding and 
 - Memory state management
 - Full MCP tool integration
 
+
+## Downloads, Releases, And Discovery
+
+| Need | Link |
+| --- | --- |
+| GitHub repository | https://github.com/ResearchForumOnline/mcp-titan-cognative-memory |
+| Source ZIP | https://github.com/ResearchForumOnline/mcp-titan-cognative-memory/archive/refs/heads/main.zip |
+| GitHub releases | https://github.com/ResearchForumOnline/mcp-titan-cognative-memory/releases |
+| TalkToAI ecosystem | https://talktoai.org/ |
+| Docs hub | https://docs.talktoai.org/ |
+
+MCP memory server implementation for sequence learning, stateful memory vectors, model persistence, and memory-augmented tool workflows.
+
+Clone, install dependencies, build, and connect it to an MCP-compatible client.
+
+~~~bash
+git clone https://github.com/ResearchForumOnline/mcp-titan-cognative-memory.git
+cd mcp-titan-cognative-memory
+npm install
+npm run build
+~~~
+
+Search-friendly topics: MCP server, cognitive memory, Titan memory, model context protocol, local agent memory, AI memory server.
+
 ## 📦 Installation
 
 ```bash
