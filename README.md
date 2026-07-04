@@ -1,5 +1,11 @@
 # 🧠 MCP - Titan Memory Server implementation
 
+## Featured TalkToAI Ecosystem Video
+
+[![TalkToAI: Sovereignty Through ZeroThink and OpenZero Infrastructure](https://i.ytimg.com/vi/R52hsRdCmSM/hqdefault.jpg)](https://www.youtube.com/watch?v=R52hsRdCmSM)
+
+A public overview of ZeroThink, OpenZero, FreeWebPanel, ZSEC, and the wider TalkToAI infrastructure. Watch it here: https://www.youtube.com/watch?v=R52hsRdCmSM
+
 Colaboration between [@jasonkneen](https://github.com/jasonkneen) and [@ExpressionsBot](https://github.com/ExpressionsBot) 
 
 Follow us on X
@@ -154,3 +160,4 @@ npm test
 ## 📝 License
 
 MIT License - feel free to use and modify as needed!
+
